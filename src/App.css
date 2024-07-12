@@ -1,0 +1,29 @@
+
+
+body {
+  font-family: Arial;
+  margin: 0;
+  padding: 20px;
+}
+
+.featured-pup-container {
+  background-color: #fff;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
+
+.featured-pup-details ul {
+  list-style: none;
+  padding: 0;
+}
+
+.puppy-name {
+  padding: 10px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.puppy-name:hover {
+  background-color: #e0e0e0;
+}

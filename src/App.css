@@ -7,7 +7,7 @@ body {
 }
 
 .featured-pup-container {
-  background-color: #fff;
+  background-color: #ecc385;
   padding: 20px;
   margin-bottom: 20px;
   border-radius: 8px;
@@ -25,5 +25,5 @@ body {
 }
 
 .puppy-name:hover {
-  background-color: #e0e0e0;
+  background-color: #eba15c;
 }
